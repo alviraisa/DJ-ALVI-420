@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "leave",
 	eventType: ["log:unsubscribe"],
 	version: "1.0.0",
-	credits: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
+	credits: "ALVI ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
 	description: "Notify the Bot or the person leaving the group with a random gif/photo/video",
 	dependencies: {
 		"fs-extra": "",
