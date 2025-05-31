@@ -95,7 +95,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("খবরদার কেউ এই আইড়ি মেনশন দিবানা এটা আমার বস আলভী এর বউ এর আইড়ি😠🥰⛏️", threadID);
    };
 
-  if ((event.body.toLowerCase() == "Farhana") || (event.body.toLowerCase() == "arohi")) {
+  if ((event.body.toLowerCase() == "আ্ঁল্ঁভি্ঁর্ঁ ব্ঁউ্ঁ  জা্ঁন্স্ঁ") || (event.body.toLowerCase() == "arohi")) {
      return api.sendMessage("খবরদার কেউ এই নাম দরে ডাক দিবানা এটা আমার বস আলভী এর বউ এর নাম..!😠🥰⛏️", threadID);
    };
   
