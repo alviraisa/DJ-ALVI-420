@@ -7,7 +7,7 @@ module.exports.config = {
     name: "admin",
     version: "1.0.0",
     hasPermssion: 0,
-    credits: "ULLASH", //don't change my credit 
+    credits: "ALVI", //don't change my credit 
     description: "Show Owner Info",
     commandCategory: "info",
     usages: "",
@@ -30,9 +30,9 @@ module.exports.run = async function({ api, event }) {
 ┃ 🏫 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 : 𝐝𝐢𝐩𝐥𝐨𝐦𝐚 𝐢𝐧 𝐀𝐠𝐫𝐢𝐜𝐮𝐥𝐭𝐮𝐫𝐞
 ┃ 🏡 𝐀𝐝𝐝𝐫𝐞𝐬𝐬  : 𝐍𝐨𝐚𝐤𝐡𝐚𝐥𝐢, 𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡
 ┣━━━━━━━━━━━━━━━━━━━━━┫
-┃ 🎭 𝐓𝐢𝐤𝐭𝐨𝐤  : ullash01
-┃ 📢 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 : https://t.me/The_morning_star71
-┃ 🌐 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 : https://www.facebook.com/profile.php?id=100015168369582
+┃ 🎭 𝐓𝐢𝐤𝐭𝐨𝐤  : alvi420
+┃ 📢 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 :
+┃ 🌐 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 :https://www.facebook.com/prabasi.hata.chele.2025?mibextid=ZbWKwL
 ┣━━━━━━━━━━━━━━━━━━━━━┫
 ┃ 🕒 𝐔𝐩𝐝𝐚𝐭𝐞𝐝 𝐓𝐢𝐦𝐞:  ${time}
 ┗━━━━━━━━━━━━━━━━━━━━━┛
