@@ -2,12 +2,12 @@ const fs = global.nodemodule["fs-extra"];
 module.exports.config = {
   name: "Obot",
   version: "1.0.1",
-  hasPermssion: 0,
+  hasPermssion: 1,
   credits: "ALVI ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
   description: "goibot",
   commandCategory: "Noprefix",
   usages: "noprefix",
-  cooldowns: 5,
+  cooldowns: 1,
 };
 module.exports.handleEvent = async function({ api, event, args, Threads, Users }) {
   var { threadID, messageID, reason } = event;
