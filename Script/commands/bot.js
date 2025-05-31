@@ -62,7 +62,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
        
    };
 
-   if ((event.body.toLowerCase() == "owner") || (event.body.toLowerCase() == "ceo")) {
+   if ((event.body.toLowerCase() == "owner") || (event.body.toLowerCase() == "আলভী")) {
      return api.sendMessage("‎[𝐎𝐖𝐍𝐄𝐑:☞ আলভী ッ ☜\n𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 ALVI.\n𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝 :- https://www.facebook.com/prabasi.hata.chele.2025?mibextid=ZbWKwL id=100000654976375\nতার সাতে যোগা যোগ করবেন WhatsApp :- +001856674810", threadID);
    };
 
